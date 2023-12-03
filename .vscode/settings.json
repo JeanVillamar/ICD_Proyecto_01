@@ -1,0 +1,12 @@
+{
+    "notebook.consolidatedRunButton": true,
+    "notebook.output.wordWrap": false,
+    "notebook.stickyScroll.enabled": true,
+    "notebook.output.scrolling": false,
+    "notebook.output.textLineLimit": 150,
+    "notebook.codeActionsOnSave": {
+
+    },
+    "jupyter.logKernelOutputSeparately": true,
+    "jupyter.themeMatplotlibPlots": true
+}
